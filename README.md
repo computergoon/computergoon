@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
-<h3 align="center">A computer science student from the United States.</h3>
+<h3 align="center">A student interested in Computer Science from the United States.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=computergoon&label=Profile%20views&color=0e75b6&style=flat" alt="computergoon" /> </p>
 
-- 🔭 I’m currently working at [StormSS](https://stormss.cc)
+- 🔭 I’m currently the Director of Operations at [StormSS](https://stormss.cc)
 
 - 🌱 I’m currently learning **C**
 
